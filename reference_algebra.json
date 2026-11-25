@@ -1,0 +1,26 @@
+{
+  "semente": 2026112303,
+  "matriz_de_atrasos": {
+    "T": 80,
+    "L": 6,
+    "K": 75,
+    "r": 3
+  },
+  "kappa_exemplo": [
+    3.3333333333333335,
+    2.5,
+    2.0
+  ],
+  "autovalores_NR_exemplo": [
+    8.666666666666666,
+    2.5,
+    1.0
+  ],
+  "melhor_piso_comum": 2.666666666666667,
+  "distancia_minima_ao_piso_comum": 0.6666666666666667,
+  "erro_sintese_NR_pareada": 2.644876724516584e-14,
+  "erro_reconstrucao_ICA_todas_componentes": 6.671359479789241e-16,
+  "erro_selecao_theta0": 0.0,
+  "erro_selecao_theta90": 1.0,
+  "escopo": "verificacao algebrica em precisao dupla; Q prescrito, sem executar ou reproduzir SOBI/Ferreira"
+}

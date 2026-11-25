@@ -1,0 +1,158 @@
+{
+  "seed": 20261123,
+  "repeticoes": 200,
+  "L": 12,
+  "resultados": [
+    {
+      "T": 256,
+      "L": 12,
+      "K": 245,
+      "lag": 0,
+      "repeticoes": 200,
+      "erro_medio": 0.2221791721071828,
+      "erro_padrao_monte_carlo": 0.0038091653511816434,
+      "norma_media": 1.0290301810113243,
+      "norma_alvo": 1.0
+    },
+    {
+      "T": 256,
+      "L": 12,
+      "K": 245,
+      "lag": 1,
+      "repeticoes": 200,
+      "erro_medio": 0.22204670011205785,
+      "erro_padrao_monte_carlo": 0.0037821441455373928,
+      "norma_media": 0.9873383639148797,
+      "norma_alvo": 0.9574271077563381
+    },
+    {
+      "T": 256,
+      "L": 12,
+      "K": 245,
+      "lag": 3,
+      "repeticoes": 200,
+      "erro_medio": 0.22234100634276274,
+      "erro_padrao_monte_carlo": 0.00359373476595916,
+      "norma_media": 0.8982484957437726,
+      "norma_alvo": 0.8660254037844387
+    },
+    {
+      "T": 256,
+      "L": 12,
+      "K": 245,
+      "lag": 12,
+      "repeticoes": 200,
+      "erro_medio": 0.22301041033457367,
+      "erro_padrao_monte_carlo": 0.0031120742986200387,
+      "norma_media": 0.22301041033457367,
+      "norma_alvo": 0.0
+    },
+    {
+      "T": 1024,
+      "L": 12,
+      "K": 1013,
+      "lag": 0,
+      "repeticoes": 200,
+      "erro_medio": 0.11046970723700208,
+      "erro_padrao_monte_carlo": 0.001862128080953954,
+      "norma_media": 1.0052343879229693,
+      "norma_alvo": 1.0
+    },
+    {
+      "T": 1024,
+      "L": 12,
+      "K": 1013,
+      "lag": 1,
+      "repeticoes": 200,
+      "erro_medio": 0.11017710614121523,
+      "erro_padrao_monte_carlo": 0.0018342916664834076,
+      "norma_media": 0.9629612477653842,
+      "norma_alvo": 0.9574271077563381
+    },
+    {
+      "T": 1024,
+      "L": 12,
+      "K": 1013,
+      "lag": 3,
+      "repeticoes": 200,
+      "erro_medio": 0.10978079443794055,
+      "erro_padrao_monte_carlo": 0.0016778441258427,
+      "norma_media": 0.8722702718002238,
+      "norma_alvo": 0.8660254037844387
+    },
+    {
+      "T": 1024,
+      "L": 12,
+      "K": 1013,
+      "lag": 12,
+      "repeticoes": 200,
+      "erro_medio": 0.10839343798969456,
+      "erro_padrao_monte_carlo": 0.0013630461837398408,
+      "norma_media": 0.10839343798969456,
+      "norma_alvo": 0.0
+    },
+    {
+      "T": 4096,
+      "L": 12,
+      "K": 4085,
+      "lag": 0,
+      "repeticoes": 200,
+      "erro_medio": 0.0552612124896348,
+      "erro_padrao_monte_carlo": 0.0008199081112180516,
+      "norma_media": 1.0019393530444272,
+      "norma_alvo": 1.0
+    },
+    {
+      "T": 4096,
+      "L": 12,
+      "K": 4085,
+      "lag": 1,
+      "repeticoes": 200,
+      "erro_medio": 0.05509505181910366,
+      "erro_padrao_monte_carlo": 0.0008108798385871304,
+      "norma_media": 0.9594078883876983,
+      "norma_alvo": 0.9574271077563381
+    },
+    {
+      "T": 4096,
+      "L": 12,
+      "K": 4085,
+      "lag": 3,
+      "repeticoes": 200,
+      "erro_medio": 0.05481908610818152,
+      "erro_padrao_monte_carlo": 0.0007524149077701336,
+      "norma_media": 0.8681100586879839,
+      "norma_alvo": 0.8660254037844387
+    },
+    {
+      "T": 4096,
+      "L": 12,
+      "K": 4085,
+      "lag": 12,
+      "repeticoes": 200,
+      "erro_medio": 0.05322756084296417,
+      "erro_padrao_monte_carlo": 0.000558139291615178,
+      "norma_media": 0.05322756084296417,
+      "norma_alvo": 0.0
+    }
+  ],
+  "exemplo_autovalores": {
+    "observados": [
+      12.0,
+      5.0,
+      3.0,
+      2.0
+    ],
+    "corrigidos": [
+      8.666666666666666,
+      2.5,
+      1.0
+    ],
+    "variancias_apos_substituicao": [
+      1.3846153846153848,
+      2.0,
+      3.0
+    ]
+  },
+  "escopo": "Ilustracoes de identidades e covariancias. Nao constitui comparacao de desempenho ICA/SOBI/NR."
+}

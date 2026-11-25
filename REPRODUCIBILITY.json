@@ -1,0 +1,36 @@
+{
+  "checked_on": "2026-11-24",
+  "reference_consistency": "PASS",
+  "rerun_experiments_match": "PASS",
+  "all_eight_png_figures_pixel_identical": "PASS",
+  "synthetic_noise_record_shapes": [
+    [
+      200,
+      256
+    ],
+    [
+      200,
+      1024
+    ],
+    [
+      200,
+      4096
+    ]
+  ],
+  "synthetic_harmonic_record_shapes": [
+    [
+      40,
+      384
+    ],
+    [
+      40,
+      1536
+    ],
+    [
+      40,
+      6144
+    ]
+  ],
+  "raw_records": "Regenerated with original seeded computations, without additional random draws.",
+  "scope": "Numerical reproducibility does not establish novelty or universal PCA-ICA equivalence."
+}
